@@ -1,0 +1,5 @@
+# dsh-big-compact bundle patch: one host-only plugin row.
+# Host half: intercepts oversized compaction summarization calls on llm/stream.
+- insert:
+    - id: big-compact
+      name: dsh-big-compact
