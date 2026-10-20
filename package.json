@@ -1,6 +1,6 @@
 {
   "name": "dsh-big-compact",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "超大会话压缩：会话历史的压缩请求超过中转大小上限时，自动分块摘要再合并；小会话仍走 dsh 自带压缩",
   "type": "module",
